@@ -11,4 +11,11 @@ It represents the code for the paper https://arxiv.org/abs/2306.14875
 
 
 **If you use this repository please cite using:**
-Biswas, Shrijeet, and Amartya Bhattacharya. "A Fully Unsupervised Instance Segmentation Technique for White Blood Cell Images." arXiv preprint arXiv:2306.14875 (2023).
+
+
+@article{biswas2023fully,
+  title={A Fully Unsupervised Instance Segmentation Technique for White Blood Cell Images},
+  author={Biswas, Shrijeet and Bhattacharya, Amartya},
+  journal={arXiv preprint arXiv:2306.14875},
+  year={2023}
+}
